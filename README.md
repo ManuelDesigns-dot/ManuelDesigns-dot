@@ -1,8 +1,7 @@
-# 🌖 Luis Emanuel
 
 <div align="center">
 
-# 😁 Introdução
+## 😁 Introdução
 
 </div>
 
@@ -10,7 +9,7 @@
 
 <div align="center">
 
-# 🫆 Minhas Estatísticas
+## 🫆 Minhas Estatísticas
 
 </div>
 
@@ -20,7 +19,12 @@
   
   
 
+<div align="center">
+
 ## 🐍 Linguagens & Tecnologias
+
+</div>
+
 <img 
     align="left" 
     alt="Git" 
