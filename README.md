@@ -7,7 +7,10 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuelDesigns-dot&theme=bear" width=750  alt="stats graph"/>
 
-  ## 🐍 Linguagens & Tecnologias
+  
+  
+
+## 🐍 Linguagens & Tecnologias
 <img 
     align="left" 
     alt="Git" 
