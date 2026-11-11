@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## 😁 Introdução
+## 😁 Introdução 😁
 
 </div>
 
@@ -9,7 +9,7 @@
 
 <div align="center">
 
-## 🫆 Minhas Estatísticas
+## 🫆 Minhas Estatísticas 🫆
 
 </div>
 
@@ -21,23 +21,11 @@
 
 <div align="center">
 
-## 🐍 Linguagens & Tecnologias
+## 🐍 Linguagens & Tecnologias 🛡️
 
 </div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" width="52" alt="git logo"  />
+</div>
